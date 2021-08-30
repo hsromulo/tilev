@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes tabela conventions for
 [TILEV VENDAS.xlsx](https://github.com/hsromulo/tilev/files/7076945/TILEV.VENDAS.xlsx) tabela
 
 ```markdown
