@@ -1,7 +1,5 @@
 # **Análises e Mérticas Tilev**
-
-![tilev](https://user-images.githubusercontent.com/81269325/131543598-b029ea22-044e-4d04-8222-a038b895f850.png)
-
+![tilev](https://user-images.githubusercontent.com/81269325/131545607-2bb50e58-303b-4a83-a6cd-14774b6a85f7.jpg)
 
 
 
