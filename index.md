@@ -6,16 +6,16 @@
 
 
 ### 2021
-*#### Agosto
+* Agosto
 [TILEV VENDAS.xlsx](https://github.com/hsromulo/tilev/files/7076945/TILEV.VENDAS.xlsx)
 
-*#### Setembro
+* Setembro
 
-*#### Outubro
+* Outubro
 
-*#### Novembro
+*Novembro
 
-*#### Dezembro
+* Dezembro
 
 
 
