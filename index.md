@@ -4,7 +4,7 @@
 
 
 ## **_2021_**
-![2021](https://user-images.githubusercontent.com/81269325/131548049-e524e880-12a9-4a4d-9cd2-399c9e97020b.jpg)
+
 
 
 [2021.xlsx](https://github.com/hsromulo/tilev/files/7085571/2021.xlsx)
