@@ -1,4 +1,4 @@
-# **Análise e Mérticas Tilev**
+# **Análises e Mérticas Tilev**
 
 ![tilev](https://user-images.githubusercontent.com/81269325/131543598-b029ea22-044e-4d04-8222-a038b895f850.png)
 
