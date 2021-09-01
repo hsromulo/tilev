@@ -13,7 +13,7 @@
 
 * Agosto
 
-[vendas agosto](https://1drv.ms/x/s!AvOUE-DAQh02gQlTsk3ciQOZUvbS)
+[vendas agosto](https://1drv.ms/x/s!AvOUE-DAQh02gQsyc2YWg6n7fJ5B)
 °atualizações todos os dias às 7h
 
 
