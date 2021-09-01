@@ -1,4 +1,4 @@
-# **Análises e Mérticas Tilev**
+# **Análises e Métricas Tilev**
 ![tilev](https://user-images.githubusercontent.com/81269325/131545607-2bb50e58-303b-4a83-a6cd-14774b6a85f7.jpg)
 
 
@@ -6,8 +6,6 @@
 ## **_2021_**
 
 
-
-[vendas gerais 2021](https://github.com/hsromulo/tilev/files/7091994/2021.xlsx)
 [vendas gerais 2021](https://1drv.ms/x/s!AvOUE-DAQh02gQUaf7lt02gGH4oG)
 
 °atualizações todo primeiro dia de cada mês
