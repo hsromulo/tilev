@@ -8,11 +8,13 @@
 
 
 [vendas gerais 2021](https://github.com/hsromulo/tilev/files/7085571/2021.xlsx)
+°atualizações todo primeiro dia de cada mês
 
 
 * Agosto
 
 [vendas diárias de agosto](https://github.com/hsromulo/tilev/files/7091820/agosto.xlsx)
+°atualizações todos os dias às 7h
 
 
 
@@ -20,7 +22,7 @@
 
 
 [vendas diárias de setembro](https://github.com/hsromulo/tilev/files/7091872/setembro.xlsx)
-
+°atualizações todos os dias às 7h
 
 
 * Outubro
