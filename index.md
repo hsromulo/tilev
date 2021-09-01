@@ -45,13 +45,3 @@ Métricas 2021
 ###### Suporte e contato
 
 romulohsantos@gmail.com (22)98107-7953
-
-(https://onedrive.live.com/embed?cid=361D42C0E01394F3&resid=361D42C0E01394F3%21128&authkey=AGdWwv8gWQbGVPc.xls)
-
-
-https://1drv.ms/u/s!AvOUE-DAQh02gQEqnrLgHJeLAdHe
-
-https://1drv.ms/u/s!AvOUE-DAQh02gQEqnrLgHJeLAdHe 
-
-
- 
