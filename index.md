@@ -8,6 +8,7 @@
 
 
 [vendas gerais 2021](https://github.com/hsromulo/tilev/files/7091994/2021.xlsx)
+[vendas gerais 2021](https://1drv.ms/x/s!AvOUE-DAQh02gQUaf7lt02gGH4oG)
 
 °atualizações todo primeiro dia de cada mês
 
