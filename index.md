@@ -13,7 +13,7 @@
 
 * Agosto
 
-[vendas agosto](https://1drv.ms/x/s!AvOUE-DAQh02gQsyc2YWg6n7fJ5B)
+[vendas diárias agosto](https://1drv.ms/x/s!AvOUE-DAQh02gQsyc2YWg6n7fJ5B)
 °atualizações todos os dias às 7h
 
 
@@ -21,7 +21,7 @@
 * Setembro
 
 
-[vendas diárias de setembro](https://github.com/hsromulo/tilev/files/7091872/setembro.xlsx)
+[vendas diárias setembro](https://1drv.ms/x/s!AvOUE-DAQh02gQ1WgHS06zKoD6vH)
 °atualizações todos os dias às 7h
 
 
