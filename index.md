@@ -9,7 +9,7 @@
 <a href="google.com" target="_blank">New Tab<"google.com">
   <a href="http://example.com/" target="_blank">Hello, world!</a>
   
-  <a href="https://www.google.com" target="_blank">Ir para o Google em nova página</a>
+  <a href="https://www.google.com" target="_blank">Ir para o Google em nova página<"https://www.google.com">
 
 
 
