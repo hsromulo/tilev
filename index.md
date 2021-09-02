@@ -4,14 +4,6 @@
 
 
 ## **_2021_**
-# Some markdown
-*click below*
-<a href="google.com" target="_blank">New Tab<"google.com">
-  <a href="http://example.com/" target="_blank">Hello, world!</a>
-  
-  <a href="https://www.google.com" target="_blank">Ir para o Google em nova página<"https://www.google.com">
-
-
 
 [vendas gerais 2021](https://1drv.ms/x/s!AvOUE-DAQh02gQUaf7lt02gGH4oG):{target="_blank"}
 
