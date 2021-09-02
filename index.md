@@ -6,7 +6,7 @@
 ## **_2021_**
 
 
-[vendas gerais 2021](https://1drv.ms/x/s!AvOUE-DAQh02gQUaf7lt02gGH4oG)
+<[vendas gerais 2021](https://1drv.ms/x/s!AvOUE-DAQh02gQUaf7lt02gGH4oG) target="_blank">
 
 °atualizações todo primeiro dia de cada mês
 
