@@ -19,7 +19,8 @@
 * Setembro
 
 
-[vendas diárias setembro](https://1drv.ms/x/s!AvOUE-DAQh02gQ1WgHS06zKoD6vH?e=szM24W)
+[vendas diárias](https://1drv.ms/x/s!AvOUE-DAQh02gQ1WgHS06zKoD6vH?e=szM24W)
+[usuários ativos](https://1drv.ms/x/s!AvOUE-DAQh02gRPKbo5PjVoZ81cd)
 °atualizações todos os dias às 7h
 
 
