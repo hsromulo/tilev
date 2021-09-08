@@ -11,7 +11,7 @@
 
 * Agosto
 
-[vendas diárias agosto](https://1drv.ms/x/s!AvOUE-DAQh02gQsyc2YWg6n7fJ5B)
+[vendas diárias](https://1drv.ms/x/s!AvOUE-DAQh02gQsyc2YWg6n7fJ5B)
 °atualizações todos os dias às 7h
 
 [usuários ativos](https://1drv.ms/x/s!AvOUE-DAQh02gRcDVCiTNo6vrdma?e=narPAj)
